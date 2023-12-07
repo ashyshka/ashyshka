@@ -28,7 +28,7 @@ Project team size: 60+ members
 
 DevOps team size: 4 members
 
-Environments, GCP services, GKE, Hashicorp Terrafom/Packer/Vault, Helm, OpenSearch (ElasticSearch Tools, alternative), Zabbix/Prometheus/Grafana, bash scripting, Docker/Podman, Ansible, Technologies: GitlabCI, Jenkins, Keycloak IdP, CloudFlare
+Environments, Tools, Technologies: GCP services, GKE, Hashicorp Terrafom/Packer/Vault, Helm, OpenSearch (ElasticSearch alternative), Zabbix/Prometheus/Grafana, bash scripting, Docker/Podman, Ansible, GitlabCI, Jenkins, Keycloak IdP, CloudFlare
 
 Responsibilities: 
 - Build HA OpenSearch clusters with OS Dashboards, integrated with Keycloak Identity Provider
@@ -54,7 +54,7 @@ Project team size: 200+ members
 
 DevOps team size: 3 members
 
-Environments, Hyper-V, Linux Ubuntu/CEntOS, ElasticSearch/Kibana, FluentD, Fluentbit, Tools, Prometheus/Grafana, custom prometheus exporters (bash exporter), Docker, Kubernetes, Technologies: Ansible, GitlabCI, bash/PowerShell scripting
+Environments, Tools, Technologies: Hyper-V, Linux Ubuntu/CEntOS, ElasticSearch/Kibana, FluentD, Fluentbit, Prometheus/Grafana, custom prometheus exporters (bash exporter), Docker, Kubernetes, Ansible, GitlabCI, bash/PowerShell scripting
 
 Responsibilities:
 - Lead DevOps team
@@ -78,9 +78,7 @@ Project team size: 5+ members
 
 DevOps team size: 1 members
 
-Environments, Dedicated Linux Ubuntu, Aptible HIPAA Compliance Cloud Provider, AWS (EC2, Aurora, Tools, ALB, WAF), ElasticSearch/Kibana
-
-Technologies:
+Environments, Tools, Technologies: Dedicated Linux Ubuntu, Aptible HIPAA Compliance Cloud Provider, AWS (EC2, Aurora, ALB, WAF), ElasticSearch/Kibana
 
 Responsibilities:
 - Switching from Cloud Based Log Aggregation to dedicated Linux server for decreasing costs
@@ -100,7 +98,7 @@ Project team size: 5 members
 
 DevOps team size: 1 members
 
-Environments, Linux Ubuntu, Balena OS for IoT, Linode Cloud Provider, OpenVPN, MongoDB, Ansible, Tools, CircleCI, clustered MQTT (EMQX), Yocto builder for IoT, Grafana/Prometheus, bash Technologies: scripting with Linode API
+Environments, Tools, Technologies: Linux Ubuntu, Balena OS for IoT, Linode Cloud Provider, OpenVPN, MongoDB, Ansible, CircleCI, clustered MQTT (EMQX), Yocto builder for IoT, Grafana/Prometheus, bash scripting with Linode API
 
 Responsibilities:
 - Migration from dedicated server to cloud infrastructure with deploy and scalability on demand

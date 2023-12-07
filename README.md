@@ -13,11 +13,10 @@ I’m a pro-active person, self-motivated, I tend to be (end-) customer- focused
 
 Currently learning Python more deeper and interested in Go programming. And I`ve plan to learned and take Professional Certificate as a GCP Cloud Architect. In general I’m open to challenges and at the same time I like working with best real-world solutions and open source solutions.
 
-Foreign Language Skills
-
-Language  Written      Spoken
-
-English   Intermediate Pre-Intermediate
+Foreign Language Skills: 
+- Language: English
+- Written:  Intermediate
+- Spoken:   Pre-Intermediate
 
 **Project Description: Food delivery with multi-regional representation in UA/MD/UZ**
 

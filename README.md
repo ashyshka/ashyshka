@@ -1,4 +1,5 @@
-**Andrii Shyshka          Software Engineer/DevOps**
+# Andrii Shyshka
+# Software Engineer/DevOps
 
 Executive Summary
 
@@ -18,7 +19,7 @@ Language  Written      Spoken
 
 English   Intermediate Pre-Intermediate
 
-# Project Description: Food delivery with multi-regional representation in UA/MD/UZ
+**Project Description: Food delivery with multi-regional representation in UA/MD/UZ**
 
 Project Duration: Sep, 2021 - Mar, 2023
 
@@ -44,7 +45,7 @@ Responsibilities:
 - Support infrastructure, troubleshooting and bug fixing
 - Using BigQuery to count how we can decreasing costs for GCP Infrastructure
 
-# Project Description: Government tenders management system
+**Project Description: Government tenders management system**
 
 Project Duration: Sep, 2019 - Nov, 2022
 
@@ -68,7 +69,7 @@ Responsibilities:
 - Developing Ansible playbooks to deployments some components outside k8s cluster
 - Cooperation with Infrastructure and Development teams to inprove and helps with troubleshooting
 
-# Project Description: HIPAA Complianse Solution with Aptible and AWS Integrations
+**Project Description: HIPAA Complianse Solution with Aptible and AWS Integrations**
 
 Project Duration: Jan, 2019 - Feb, 2020 (part time)
 
@@ -90,7 +91,7 @@ Responsibilities:
 - Setup Web Application Firewall, implementation Rules
 - Teaching Security Engigeer
 
-# Project Description: Cloud video surveillance systems with a secure and reliable and easy to use platform. This is revolutionising CCTV
+**Project Description: Cloud video surveillance systems with a secure and reliable and easy to use platform. This is revolutionising CCTV**
 
 Project Duration: Sep, 2018 - Apr, 2019
 
